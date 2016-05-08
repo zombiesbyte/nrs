@@ -1,0 +1,21 @@
+
+[2016-05-09 01:18:46] Master socket created!
+[2016-05-09 01:18:47] Master socket bound to port 5000!
+[2016-05-09 01:18:48] Now listening on master socket!
+[2016-05-09 01:20:33] Master socket created!
+[2016-05-09 01:20:34] Master socket bound to port 5000!
+[2016-05-09 01:20:35] Now listening on master socket!
+[2016-05-09 01:20:39] Client 192.168.1.152 : 37796 is now connected
+[2016-05-09 01:20:46] Sending confirm to client: [OK] 2016-05-09 01:20:46
+[2016-05-09 01:27:27] Master socket created!
+[2016-05-09 01:27:28] Master socket bound to port 5000!
+[2016-05-09 01:27:29] Now listening on master socket!
+[2016-05-09 01:27:31] Client 192.168.1.152 : 37800 is now connected
+[2016-05-09 01:27:32] Sending confirm to client: [OK] 2016-05-09 01:27:32
+[2016-05-09 01:30:11] Master socket created!
+[2016-05-09 01:30:12] Master socket bound to port 5000!
+[2016-05-09 01:30:13] Now listening on master socket!
+[2016-05-09 01:30:15] Client 192.168.1.152 : 37802 is now connected
+[2016-05-09 01:30:16] Sending confirm to client: [OK] 2016-05-09 01:30:16
+[2016-05-09 01:30:22] Client 192.168.1.152 : 37804 is now connected
+[2016-05-09 01:30:23] Sending confirm to client: [OK] 2016-05-09 01:30:23
